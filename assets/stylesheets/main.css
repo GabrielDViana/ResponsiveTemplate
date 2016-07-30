@@ -62,8 +62,9 @@ body {
 
 .phone{
   bottom: 0;
+  margin-top: -50%;
   margin-left: 10%;
-  width: 75%;
+  width: 100%;
   /*height: auto;*/
 }
 .logo1{
@@ -115,7 +116,7 @@ body {
   text-transform: uppercase;
 }
 #main .distance {
-  margin-top: 15%;
+  margin-top: 25%;
 }
 #autora {
   background-image: url('/assets/images/bg3.png');

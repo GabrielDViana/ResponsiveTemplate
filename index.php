@@ -42,11 +42,9 @@
       </div>
       <div class="col-sm-6">
         <div class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-          <p style="margin-bottom: 2.5%;">Um e-Book interativo, divertido e inovador.</p>
-          <p> Traz o conhecimento de uma forma descontraída,</p>
-          <p> mostrando expressões em situações inusitadas
-          <p>e muitas vezes divertidas, surgidas do cotidiano </p>
-          <p>de qualquer viajante em trânsito.</p>
+          <p style="margin-bottom: 2.5%;">Um e-Book interativo que é divertido</p>
+          <p> e inovador voltado para as pessoas</p>
+          <p>de todas as idades.</p>
         </div>
       </div>
       <div class="col-sm-6" >
