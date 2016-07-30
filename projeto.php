@@ -15,20 +15,22 @@
 </head>
 <body>
 
-<nav >
-    <div class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        <li><a href="/projeto.php">Projeto</a></li>
-        <li><a href="/livro.php">Livro</a></li>
-        <li><a href="/index.php"><img src="/assets/images/Logo.png" class="logo" alt=""></a></li>
-        <li><a href="/autora.php">Autora</a></li>
-        <li><a href="/contato.php">Contato</a></li>
-      </ul>
-    </div>
-</nav>
+  <nav >
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="/projeto.php">Projeto</a></li>
+          <li><a href="/livro.php">Livro</a></li>
+          <li><a href="/autora.php">Autora</a></li>
+          <li><a href="/index.php"><img src="/assets/images/Logo.png" class="logo" alt=""></a></li>
+          <li><a href="/guia.php">Guia</a></li>
+          <li><a href="/comoadquirir.php">Como adquirir</a></li>
+          <li><a href="/contato.php">Contato</a></li>
+        </ul>
+      </div>
+  </nav>
 
   <section id="projeto">
-      <div class="container" style="padding-top: 5%;"> 
+      <div class="container" style="padding-top: 5%;">
   <div class="row col-sm-10 col-sm-offset-1">
     <h1><i class="fa fa-pencil-square-o icone" aria-hidden="true"></i> O Projeto</h1>
     <svg class="svg" width="100%" height="30px" viewBox="0 75 400 50">

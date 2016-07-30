@@ -15,17 +15,19 @@
 </head>
 <body>
 
-<nav >
-    <div class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        <li><a href="/projeto.php">Projeto</a></li>
-        <li><a href="/livro.php">Livro</a></li>
-        <li><a href="/index.php"><img src="/assets/images/Logo.png" class="logo" alt=""></a></li>
-        <li><a href="/autora.php">Autora</a></li>
-        <li><a href="/contato.php">Contato</a></li>
-      </ul>
-    </div>
-</nav>
+  <nav >
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="/projeto.php">Projeto</a></li>
+          <li><a href="/livro.php">Livro</a></li>
+          <li><a href="/autora.php">Autora</a></li>
+          <li><a href="/index.php"><img src="/assets/images/Logo.png" class="logo" alt=""></a></li>
+          <li><a href="/guia.php">Guia</a></li>
+          <li><a href="/comoadquirir.php">Como adquirir</a></li>
+          <li><a href="/contato.php">Contato</a></li>
+        </ul>
+      </div>
+  </nav>
 
   </section>
   <div class="border2"></div>
