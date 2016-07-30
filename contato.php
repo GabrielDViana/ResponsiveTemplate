@@ -2,7 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <?php
+   ini_set('default_charset','UTF-8');
+  ?>
   <title>Ta Viajando?</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   	<link rel="stylesheet" media="all" href="/assets/stylesheets/bootstrap.min.css" data-turbolinks-track="true" />
 	<link rel="stylesheet" media="all" href="/assets/stylesheets/font-awesome.min.css" data-turbolinks-track="true" />
 	<link rel="stylesheet" media="all" href="/assets/stylesheets/home.css" data-turbolinks-track="true" />
