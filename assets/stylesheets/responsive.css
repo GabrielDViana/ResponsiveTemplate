@@ -36,10 +36,7 @@
   #autora,
   #livro,
   #atendimento {
-    background-size: 100vw 100%;
-  }
-  #main{
-    min-height: 75vh;
+    background-size: 100% 100%;
   }
 }
 
@@ -97,18 +94,12 @@
   #autora,
   #livro,
   #atendimento {
-    background-size: 100vw 100%;
-  }
-  #main{
-    min-height: 75vh;
+    background-size: 100% 100%;
   }
 }
 
 /* xs */
 @media (max-width: 767px) {
-  .phone{
-    margin-top: -5%;
-  }
 	body {
 		font-size: 14px;
 	}
@@ -117,27 +108,18 @@
   #autora,
   #livro,
   #atendimento {
-    background-size: 100vw 100%;
+    background-size: 100% 100%;
   }
 
-  #main{
-    min-height: 100vh;
-  }
 }
 
 /* XS Portrait */
 @media (max-width: 479px) {
-  .phone{
-    margin-top: 0%;
-  }
   #main,
   #projeto,
   #autora,
   #livro,
   #atendimento {
     background-size: 100% 100%;
-  }
-  #main{
-    min-height: 100vh;
   }
 }

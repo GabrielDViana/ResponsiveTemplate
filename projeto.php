@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ta Viajando?</title>
+  	<link rel="stylesheet" media="all" href="/assets/stylesheets/bootstrap.min.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/font-awesome.min.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/home.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/main.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/preset.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/responsive.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/user.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/application.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
+</head>
+<body>
+
+<nav >
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="/projeto.php">Projeto</a></li>
+        <li><a href="/livro.php">Livro</a></li>
+        <li><a href="/index.php"><img src="/assets/images/Logo.png" class="logo" alt=""></a></li>
+        <li><a href="/autora.php">Autora</a></li>
+        <li><a href="/contato.php">Contato</a></li>
+      </ul>
+    </div>
+</nav>
+
+  <section id="projeto">
+      <div class="container" style="padding-top: 5%;"> 
+  <div class="row col-sm-10 col-sm-offset-1">
+    <h1><i class="fa fa-pencil-square-o icone" aria-hidden="true"></i> O Projeto</h1>
+    <svg class="svg" width="100%" height="30px" viewBox="0 75 400 50">
+      <line x1="-200" x2="620" y1="100" y2="100" stroke="#000" stroke-width="20" stroke-linecap="round" stroke-dasharray="1, 30"/>
+    </svg>
+    <div class="col-sm-6">
+      <iframe width="100%" height="450px" src="https://player.vimeo.com/video/168579924" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+    <div class="col-sm-6 offset">
+      <div class=" wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+        <p>
+          Este projeto visa à produção de um Dicionário bilíngue (Português e Inglês).
+          Com o nome Tá Viajando? – 1001 Expressões do Brasil, o dicionário é composto
+          por 1001 expressões idiomáticas brasileiras. Contem algumas das expressões
+          mais conhecidas e usadas em todo o país e tem o intuito de apresentar
+          e facilitar o acesso dos turistas estrangeiros em vista ao Brasil este
+          rico e usado vocabulário.
+        </p>
+        <p>
+          Outro diferencial do projeto é a metodologia usada nas traduções das expressões.
+          Isso não será feito de uma forma convencional, seca e literal, mas sim
+          tentando sempre chegar a uma versão bem próxima do que será explicado
+          na língua original do leitor, criando um real significado que elucida
+          a questão a ser explanada.Desta forma, o livro aproximará a explicação
+          das nossas expressões aos leitores estrangeiros de uma forma fácil,
+          fazendo-os entender as expressões descontraidamente e com rapidez.
+        </p>
+      </div>
+      <div class="row" >
+        <div class="text-center col-sm-9 col-sm-offset-1 wow fadeInUp margins" data-wow-duration="1000ms" data-wow-delay="300ms">
+          <div class="col-sm-4">
+            <i class="fa fa-comments f-icons" aria-hidden="true"></i>
+            <h3>Diálogos
+              Port/Inglês</h3>
+          </div>
+          <div class="col-sm-4">
+            <i class="fa fa-hand-o-up f-icons" aria-hidden="true"></i>
+            <h3>Intuitivo
+              e Dinamico</h3>
+          </div>
+          <div class="col-sm-4">
+            <i class="fa fa-tablet f-icons" aria-hidden="true"></i>
+            <h3>Multi
+              Plataforma</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

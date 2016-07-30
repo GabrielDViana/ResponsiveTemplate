@@ -61,11 +61,10 @@ body {
 }
 
 .phone{
-  position:absolute;
-  margin-top: -25%;
+  bottom: 0;
   margin-left: 10%;
   width: 75%;
-  height: auto;
+  /*height: auto;*/
 }
 .logo1{
   width: 30%;
@@ -103,7 +102,6 @@ body {
   background-image: url('/assets/images/home.png');
   background-color: #FFDD33;
   background-size: 100%;
-  min-height: 99.9vh;
 }
 #main h1{
   font-size: 48px;

@@ -27,29 +27,41 @@
     </div>
 </nav>
 
-
-<section id="main"style="z-index: -1;">
-  <div class="container">
-    <div class="row col-sm-10 col-sm-offset-1 distance">
-      <div>
-        <img src="/assets/images/Logo1.png" class="logo1" alt="">
-      </div>
-      <div class="col-sm-6">
-        <div class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-          <p style="margin-bottom: 2.5%;">Um e-Book interativo, divertido e inovador.</p>
-          <p> Traz o conhecimento de uma forma descontraída,</p>
-          <p> mostrando expressões em situações inusitadas
-          <p>e muitas vezes divertidas, surgidas do cotidiano </p>
-          <p>de qualquer viajante em trânsito.</p>
-        </div>
-      </div>
-      <div class="col-sm-6" >
-          <img src="/assets/images/tablet2.png" class="phone" alt="">
+  <section id="autora">
+      <div class="container" style="padding-top: 5%;">
+  <div class="row col-sm-10 col-sm-offset-1">
+    <h1><i class="fa fa-user icone" aria-hidden="true"></i> A Autora</h1>
+    <svg class="svg" width="100%" height="30px" viewBox="0 75 400 50">
+      <line x1="-200" x2="620" y1="100" y2="100" stroke="#000" stroke-width="20" stroke-linecap="round" stroke-dasharray="1, 30"/>
+    </svg>
+    <div class="col-sm-6">
+      <div class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+        <img src="/assets/images/autora.jpg" alt="Aline Sanchotene">
       </div>
     </div>
+    <div class="col-sm-6">
+      <div class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+        <h2>Aline Sanchotene</h2>
+        <p>
+          Formada pela Universidade de Brasília – UnB, habilitada em Publicidade
+          e Propaganda. Com experiência em Criação Publicitária, atividades de
+          Relações Públicas e Marketing Institucional. Trabalhou oito anos
+          (2003/2011) como Tenente no Serviço de Comunicação Social do Exército
+          Brasileiro.
+        </p>
+        <p>
+          Especialista em criação de campanhas institucionais, assessoria de
+          comunicação e projetos de comunicação corporativa. Atualmente atua na
+          iniciativa privada com marketing digital.
+        </p>
+      </div>
+      <div id="circles">
+        <img src="/assets/images/Circulos.png" style="size: 50px;" alt=""></div>
+    </div>
   </div>
-</section>
-<div class="border2"></div>
+</div>
+
+  </section>
 
 </body>
 </html>
