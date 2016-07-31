@@ -6,27 +6,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Ta Viajando?</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Clientele a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-<!-- css files -->
-<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
-<link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
-<link href="/assets/css/team.css" rel="stylesheet" type="text/css" media="all" />
-<link href="/assets/css/portfolio.css" rel="stylesheet" type="text/css" media="all" />
-<link href="/assets/css/progressbar.css" rel="stylesheet" type="text/css" media="all" />
-<link href="/assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="/assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
-<!-- /css files -->
-<!-- fonts -->
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css">
-<!-- /fonts -->
-<!-- js files -->
-<script src="js/modernizr.custom.js"></script>
-<!-- /js files -->
+  <?php
+   ini_set('default_charset','UTF-8');
+  ?>
+  <title>Ta Viajando?</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" media="all" href="/assets/css/bootstrap.min.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/css/font-awesome.min.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/css/team.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/css/portfolio.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/css/progressbar.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/css/style.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
+  <!-- /css files -->
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 <!-- navigation -->
