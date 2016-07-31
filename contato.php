@@ -51,7 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <section class="contato">
   <h1 class="text-center"><i style="font-size: 76px;" class="fa fa-pencil-square-o icone" aria-hidden="true"></i>Contato</h1>
-  <svg class="svg" width="100%" height="30px" viewBox="0 75 400 50">
+  <svg style="margin-bottom:2.5%;" class="svg" width="100%" height="30px" viewBox="0 75 400 50">
     <line x1="-200" x2="620" y1="100" y2="100" stroke="#000" stroke-width="20" stroke-linecap="round" stroke-dasharray="1, 30"/>
   </svg>
   <div class="container">
