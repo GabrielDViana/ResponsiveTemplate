@@ -89,5 +89,82 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 </section>
 
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/SmoothScroll.min.js"></script>
+<!-- js for banner -->
+<script src="/assets/js/index.js"></script>
+<!-- js for banner -->
+<!-- js for skill section -->
+<script src="/assets/js/progressbar.js"></script>
+<script>
+    // Display the progress bar calling progressbar.js
+	$('.progressbarPhp').progressBar({
+		shadow : true,
+		percentage : false,
+		animation : true,
+		animateTarget : true,
+		barColor : "rgb(51,122,183)",
+	});
+	//Menu
+	$(".spinDown").click(function() {
+		var target = $(this).data("target");
+		var scrollFix = -80;
+		target = "#" + target;
+		$("html,body").animate({
+			scrollTop : $(target).offset().top + scrollFix
+		}, 1000);
+		return false;
+	});
+</script>
+<!-- /js for skill section -->
+<!-- js for portfolio section -->
+<script src="/assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="/assets/js/masonry.pkgd.min.js"></script>
+<script src="/assets/js/classie.js"></script>
+<script src="/assets/js/cbpGridGallery.js"></script>
+<script>
+	new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
+</script>
+<!-- js for portfolio section -->
+<!-- js for smooth scrolling -->
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+  // Store hash
+  var hash = this.hash;
+
+  // Using jQuery's animate() method to add smooth page scroll
+  // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+  $('html, body').animate({
+    scrollTop: $(hash).offset().top
+  }, 900, function(){
+
+    // Add hash (#) to URL when done scrolling (default click behavior)
+    window.location.hash = hash;
+    });
+  });
+})
+</script>
+<!-- /js for smooth scrolling -->
+<!-- js for sliding animations -->
+<script>
+$(window).scroll(function() {
+  $(".slideanim").each(function(){
+    var pos = $(this).offset().top;
+
+    var winTop = $(window).scrollTop();
+    if (pos < winTop + 600) {
+      $(this).addClass("slide");
+    }
+  });
+});
+</script>
+<!-- /js for sliding animations -->
+<!-- js for back to top -->
+<script src="/assets/js/main.js"></script>
+
 </body>
 </html>
