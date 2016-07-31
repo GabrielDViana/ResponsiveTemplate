@@ -12,12 +12,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   <title>Ta Viajando?</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<link rel="stylesheet" media="all" href="/assets/css/bootstrap.min.css" data-turbolinks-track="true" />
-	<link rel="stylesheet" media="all" href="/assets/css/font-awesome.min.css" data-turbolinks-track="true" />
-	<link rel="stylesheet" media="all" href="/assets/css/team.css" data-turbolinks-track="true" />
-	<link rel="stylesheet" media="all" href="/assets/css/portfolio.css" data-turbolinks-track="true" />
-	<link rel="stylesheet" media="all" href="/assets/css/progressbar.css" data-turbolinks-track="true" />
-	<link rel="stylesheet" media="all" href="/assets/css/style.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/bootstrap.min.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/font-awesome.min.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/team.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/portfolio.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/progressbar.css" data-turbolinks-track="true" />
+	<link rel="stylesheet" media="all" href="/assets/stylesheets/style.css" data-turbolinks-track="true" />
 
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
   <!-- /css files -->
