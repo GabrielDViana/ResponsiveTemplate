@@ -12,13 +12,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="keywords" content="Clientele a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <!-- css files -->
-<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/team.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/portfolio.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/progressbar.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/main.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/team.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/portfolio.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/progressbar.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
 <!-- /css files -->
 <!-- fonts -->
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
@@ -45,7 +45,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <li><a href="/projeto.php">Projeto</a></li>
             <li><a href="/livro.php">Livro</a></li>
             <li><a href="/autora.php">Autora</a></li>
-            <li><a href="/index.php"><img src="/images/Logo.png" class="logo" alt=""></a></li>
+            <li><a href="/index.php"><img src="/assets/images/Logo.png" class="logo" alt=""></a></li>
             <li><a href="/guia.php">Guia</a></li>
             <li><a href="/comoadquirir.php">Como adquirir</a></li>
             <li><a href="/contato.php">Contato</a></li>
